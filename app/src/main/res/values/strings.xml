@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MailRuAndroid</string>
+    <string name="current_time">currentTime</string>
+    <string name="is_clicked">isClicked</string>
+
+    <string-array name="stringSeconds">
+        <item>один</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одиннадцать</item>
+        <item>двенадцать</item>
+        <item>тринадцать</item>
+        <item>четырнадцать</item>
+        <item>пятнадцать</item>
+        <item>шестнадцать</item>
+        <item>семнадцать</item>
+        <item>восемнадцать</item>
+        <item>девятнадцать</item>
+    </string-array>
+    <string-array name="stringDecadeSeconds">
+        <item>двадцать</item>
+        <item>тридцать</item>
+        <item>сорок</item>
+        <item>пятьдесят</item>
+        <item>шестьдесят</item>
+        <item>семьдесят</item>
+        <item>восемьдесят</item>
+        <item>девяносто</item>
+    </string-array>
+    <string-array name="stringHundredSeconds">
+        <item>сто</item>
+        <item>двести</item>
+        <item>триста</item>
+        <item>четыреста</item>
+        <item>пятьсот</item>
+        <item>шестьсот</item>
+        <item>семьсот</item>
+        <item>восемьсот</item>
+        <item>девятьсот</item>
+    </string-array>
+    <string name="stringFinalSeconds">тысяча</string>
+</resources>
