@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

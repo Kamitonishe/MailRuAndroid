@@ -1,0 +1,7 @@
+#Tue Oct 10 22:09:36 MSK 2017
+base.0=/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_67520c878ab5af1b9652ba1ae1b7350561ea04a3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38f83331b9277b237e1ad8ed7710189901f27855/classes.dex
+base.1=/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38f83331b9277b237e1ad8ed7710189901f27855
+file.0=/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_67520c878ab5af1b9652ba1ae1b7350561ea04a3/classes.dex

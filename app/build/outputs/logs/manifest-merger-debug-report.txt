@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sergey/.android/build-cache/21c9194844c9653284256b25b296961a92b579e2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/91eea46b2db3844117caf03b525e51540b2cdf21/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sergey/.android/build-cache/fc2d4314cbefffa36a8bbe0f99d17b961242f515/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sergey/.android/build-cache/2de8cca8d58cd6fc93df6247463046904a1acbcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sergey/.android/build-cache/a2c19d7d318f3a6b6800be75ffc33e6d4e6b5a58/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/70ec312ae1da7d5e84ebbca9a32bb4b2c6e84b6c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/672d78c483de4694d8b53be9e6e342715bf451c4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/47d94b9520fcef03dec6f7ca0001b47fcb78ba4f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sergey/.android/build-cache/3660cacc223b3a874bebca5067f991bfaa934bed/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sergey.mailruandroid.MainActivity
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.sergey.mailruandroid.TimerActivity
+ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml:19:19-48
+uses-sdk
+INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sergey/.android/build-cache/21c9194844c9653284256b25b296961a92b579e2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/91eea46b2db3844117caf03b525e51540b2cdf21/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sergey/.android/build-cache/fc2d4314cbefffa36a8bbe0f99d17b961242f515/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sergey/.android/build-cache/2de8cca8d58cd6fc93df6247463046904a1acbcf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sergey/.android/build-cache/a2c19d7d318f3a6b6800be75ffc33e6d4e6b5a58/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/70ec312ae1da7d5e84ebbca9a32bb4b2c6e84b6c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/672d78c483de4694d8b53be9e6e342715bf451c4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/47d94b9520fcef03dec6f7ca0001b47fcb78ba4f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sergey/.android/build-cache/3660cacc223b3a874bebca5067f991bfaa934bed/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sergey/Загрузки/MailRuAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sergey/.android/build-cache/21c9194844c9653284256b25b296961a92b579e2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/91eea46b2db3844117caf03b525e51540b2cdf21/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sergey/.android/build-cache/fc2d4314cbefffa36a8bbe0f99d17b961242f515/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sergey/.android/build-cache/2de8cca8d58cd6fc93df6247463046904a1acbcf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sergey/.android/build-cache/a2c19d7d318f3a6b6800be75ffc33e6d4e6b5a58/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/70ec312ae1da7d5e84ebbca9a32bb4b2c6e84b6c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sergey/.android/build-cache/672d78c483de4694d8b53be9e6e342715bf451c4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sergey/.android/build-cache/47d94b9520fcef03dec6f7ca0001b47fcb78ba4f/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_67520c878ab5af1b9652ba1ae1b7350561ea04a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/91eea46b2db3844117caf03b525e51540b2cdf21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ee888237a99baead6e67dea466b4870d62d2898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/3660cacc223b3a874bebca5067f991bfaa934bed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e73ff986e95d053f4de2a1252fe9ab39a6508bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/afbfd696cddac615ba9c26c183910ab84b01599f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cc61f4b610a4c03aa11301b96803f6be7ec9476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/fc2d4314cbefffa36a8bbe0f99d17b961242f515/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d62f3cbc483d9596b0dde0694e07e2250c54ab76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/a2c19d7d318f3a6b6800be75ffc33e6d4e6b5a58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02f384687c3b5ca7c41c34c1ddeb930260a85c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/2de8cca8d58cd6fc93df6247463046904a1acbcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e99893b09d1f7f889cb0d11810cc21005aa939ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/21c9194844c9653284256b25b296961a92b579e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bccfe7523b6be6c71ae989853c315283d69b6bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a47c63d4b08ebe0faf3ac5c03ab390a1dddd2a9">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_38f83331b9277b237e1ad8ed7710189901f27855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d5b80e48ca25e9303565893d0b3fa3e64a6b2813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/70ec312ae1da7d5e84ebbca9a32bb4b2c6e84b6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_675a7cc962ba7198311e50be2d0ecb521f9163ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_df0caee1a493711acb94eb6a08098bd8849a3aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/672d78c483de4694d8b53be9e6e342715bf451c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fe31d94d56052ebbcd1afa2a682af110c39f2be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sergey/.android/build-cache/47d94b9520fcef03dec6f7ca0001b47fcb78ba4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sergey/Загрузки/MailRuAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07df5893bdd67f86f0e6e9e09629cb4a987811d2/classes.dex" />
+    </item>
+
+</items>

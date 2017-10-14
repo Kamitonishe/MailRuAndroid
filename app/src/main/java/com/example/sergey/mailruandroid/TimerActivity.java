@@ -12,6 +12,8 @@ import android.widget.TextView;
  * Created by sergey on 10.10.17.
  */
 
+
+
 public class TimerActivity extends AppCompatActivity implements OnClickListener {
     private CountDownTimer countDownTimer;
     private Button button;
